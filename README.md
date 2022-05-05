@@ -1,5 +1,6 @@
-﻿# Handwritten Text Recognition with TensorFlow
+﻿# Handwritten Text Recognition with Keras
 
+Video Demo : https://youtu.be/m6soGLvyPoY
 
 Handwritten Digit Recognition system implemented using Keras and CNN. The model takes **images of single digit throught the canvas shown on the browser as input** and **outputs the recognized Digit**.
 3/4 of the digits from the validation-set are correctly recognized, and the character error rate is around 10%.
