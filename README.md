@@ -6,7 +6,7 @@ Handwritten Digit Recognition system implemented using Keras and CNN. The model 
 3/4 of the digits from the validation-set are correctly recognized, and the character error rate is around 10%.
 
 
-## Run demo
+## Run program 
 
 * Clone the repository. 
 * If you want to retrain the model and start from the beginning, for the ##Run Training Steps. 
