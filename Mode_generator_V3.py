@@ -73,7 +73,7 @@ model.fit(
     # validation_data=(x_test,y_test)
 )
 #model is being saved. This helps us use the model in the future, instead of training it again.
-model.save('modelv2')
+model.save('model_v1')
 
 
 # The bottom part of the code is for evaluation of the model. 

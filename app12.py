@@ -2,7 +2,7 @@ import re
 import base64
 
 
-
+#App route for the flask app to begin excecution 
 @app.route('/predictdigits/', methods=['GET','POST'])
 def predict_digits():
 
