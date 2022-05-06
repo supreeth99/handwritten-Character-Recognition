@@ -1,4 +1,4 @@
-﻿# Handwritten Text Recognition with Keras
+﻿# Handwritten Digit Recognition with Keras
 
 Video Demo : https://youtu.be/m6soGLvyPoY
 
